@@ -10,4 +10,4 @@ spec:
       - backend:
           serviceName: podinfo
           servicePort: 9898
-    host: podinfo.20.65.22.215.nip.io
+    host: podinfo.52.254.37.55.nip.io
