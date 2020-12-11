@@ -54,7 +54,8 @@ spec:
         - --grpc-service-name=podinfo
         - --level=info
         - --random-delay=false
-        - --random-error=false
+        - --random-error=false 
+        - --ui-message='Welcome to Flux'
         env:
         - name: PODINFO_UI_COLOR
           value: "#34577c"
